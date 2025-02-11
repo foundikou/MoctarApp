@@ -1,7 +1,7 @@
 package com.moctar;
 
 /**
- * Hello world!
+ * Never Give Up!
  *
  */
 public class App 
